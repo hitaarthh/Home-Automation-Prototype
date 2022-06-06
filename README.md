@@ -2,7 +2,7 @@
 <a href="[https://www.tinkercad.com/things/a1AlGO7kumr](https://www.tinkercad.com/things/iOBlCPklACo)"><img src="https://img.shields.io/badge/Tinker%20CAD-Simulation%20Diagram <Click Here>-green[700]"></a>
 </div>
 <div align="center"><h1>Home Automation Project</h1></div>
-<h2>--> Materials Used</h2>
+<h2>--> Materials Used:</h2>
 <div>
   <ol>
     <li><a href="https://www.arduino.cc/" target="_main">Arduino</a></li>
@@ -20,6 +20,6 @@
 </div>
 <div >
 
-<h2>--> Simulation Diagram</h2>
+<h2>--> Simulation Diagram:</h2>
   
 <img width="1280" alt="Simulation" src="https://user-images.githubusercontent.com/91147942/172211087-4463947a-846e-4316-ae7e-c3cc9e36e3a7.png">
