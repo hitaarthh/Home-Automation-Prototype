@@ -21,4 +21,5 @@
 <div >
 
 <h2>Simulation Diagram</h2>
-<div><img src="https://user-images.githubusercontent.com/91787553/172208537-192c8a2f-acaf-4c86-bc57-b0c2295b5da2.png" alt="simulation"></div>
+  
+<img width="1280" alt="Simulation" src="https://user-images.githubusercontent.com/91147942/172211087-4463947a-846e-4316-ae7e-c3cc9e36e3a7.png">
